@@ -1,0 +1,3 @@
+[submodule "AMS-backend"]
+	path = AMS-backend
+	url = git@github.com:subin989/AMS-backend.git
