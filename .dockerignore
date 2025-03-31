@@ -1,0 +1,5 @@
+.venv
+.eslintrc
+.eslintrc.*
+.gitignore
+.gitmodules
