@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:subin989/AMS-backend.git
+[submodule "ams-frontend"]
+	path = ams-frontend
+	url = git@github.com:subin989/AMS-Frontend.git

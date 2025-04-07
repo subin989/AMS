@@ -1,12 +1,12 @@
 # Run development watch
 watch:
-    docker compose -p "ams" --env-file .env watch
+    docker compose -p "management_system" --env-file .env watch
 
 start:
-    docker compose -p "ams" --env-file .env up -d --build
+    docker compose -p "management_system" --env-file .env up -d --build
 
 stop:
-    docker compose -p "ams" --env-file .env down
+    docker compose -p "management_system" --env-file .env down
 
 restart: stop start
 
